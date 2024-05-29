@@ -11,6 +11,7 @@ This repository contains the code for a summarization website that can generate 
 - [Frontend Components](#frontend-components)
 - [Libraries Used](#libraries-used)
 - [Methodology](#methodology)
+- [Screenshots](#screenshots)
 
 ## Features
 
@@ -182,5 +183,20 @@ The methodology for generating summaries from YouTube videos or PDF documents in
    - The final generated summary is outputted to the user.
 
 This structured approach ensures that the system can handle different types of input and generate coherent summaries effectively.
+
+## Screenshots
+
+### Home Screen
+
+![Screenshot 2024-05-01 233244](https://github.com/karthiikJR/video-pdf-summarization/assets/115890844/f3667d78-2e5f-4b99-a809-e54fac716e33)
+
+### Summary from YT Link
+
+![Screenshot 2024-05-01 233519](https://github.com/karthiikJR/video-pdf-summarization/assets/115890844/8dc5ac38-1ee6-4d45-8bb5-e5b7b855fd47)
+
+## Summary for PDF
+
+![Screenshot 2024-05-01 233641](https://github.com/karthiikJR/video-pdf-summarization/assets/115890844/89e68f42-b123-40de-8fcf-4e3f0e8502ea)
+
 
 ---
