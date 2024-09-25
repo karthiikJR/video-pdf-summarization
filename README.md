@@ -27,7 +27,7 @@ This repository contains the code for a summarization website that can generate 
 1. **Clone the repository:**
     ```sh
     git clone https://github.com/karthiikJR/video-pdf-summarization.git
-    cd summarization-website
+    cd video-pdf-summarization
     ```
 2. **Create a `requirements.txt` file with the following content:**
     ```plaintext
